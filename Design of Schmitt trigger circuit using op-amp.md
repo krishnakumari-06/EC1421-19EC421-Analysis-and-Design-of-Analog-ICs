@@ -1,4 +1,6 @@
 # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+## NAME : KRISHNA KUMARI E
+## REG NO: 212224060127
 # SCHMITT TRIGGER 
 
 ## AIM:
@@ -12,8 +14,10 @@ The circuit shows an inverting comparator with positive feedback. This circuit c
 When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage, VLT. When Vo=+Vsat, the voltage across R1 is referred to as upper threshold voltage VUT. The comparator with positive feedback is said to exhibit hysteresis, a dead band condition.
 
 ## CIRCUIT DIAGRAM:
+<img width="1280" height="1155" alt="image" src="https://github.com/user-attachments/assets/c8b0851b-0b35-4484-870b-9470289e3de7" />
 
 ## MODEL GRAPH:
+<img width="1168" height="852" alt="image" src="https://github.com/user-attachments/assets/bf1425d0-37de-49d7-ae6d-cb50b61b92ad" />
 
 ## PROCEDURE:
 1. Design the value of circuit components and select VUT & VLT as given in the design procedure.
@@ -26,10 +30,10 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 <img width="953" height="586" alt="image" src="https://github.com/user-attachments/assets/1d2c221f-bb9f-4a6e-bceb-e7ecbceb4e38" />
 
 ## TABULATION:
-
-## CALCULATIONS:
+<img width="1216" height="766" alt="image" src="https://github.com/user-attachments/assets/ab8f8db3-c7f9-42e6-a067-8f95b2f93594" />
 
 ## GRAPH:
+![WhatsApp Image 2025-11-16 at 5 57 24 PM](https://github.com/user-attachments/assets/f19c8980-7782-4421-a2e2-a6aba638b15d)
 
 ## RESULT:
 Thus a Schmitt trigger is designed and tested using op-amp IC 741.

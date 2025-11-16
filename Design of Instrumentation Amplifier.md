@@ -1,4 +1,6 @@
-<img width="1280" height="738" alt="image" src="https://github.com/user-attachments/assets/3c9c79d0-c67e-49ac-b32d-6942926bcc17" /># EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+ # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+ ## NAME: KRISHNA KUMARI E
+ ## REG NO: 212224060127
 #  INSTRUMENTATION AMPLIFIER
 
 ## AIM: 

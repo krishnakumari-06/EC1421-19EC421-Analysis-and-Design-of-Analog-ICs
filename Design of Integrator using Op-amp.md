@@ -1,4 +1,7 @@
 # EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
+## NAME: KRISHNA KUMARI E
+## REG NO: 212224060127
+
 # Design of Integrator using Op-amp.
 
 ## AIM:
@@ -41,12 +44,10 @@ We get , R1 =  and hence Rf =
 
 ~~~
 ## CIRCUIT DIAGRAM:
-
-
+<img width="1280" height="875" alt="image" src="https://github.com/user-attachments/assets/90a48b72-ea60-458f-a1a1-1dfb50051f78" />
 
 ## MODEL GRAPH
-
-
+<img width="742" height="1280" alt="image" src="https://github.com/user-attachments/assets/10a123e3-145c-446b-af11-eb2504570087" />
 
 ## PROCEDURE:
 
@@ -58,11 +59,11 @@ input voltage is applied to the inverting input terminal of the Op- Amp.
 are plotted in a graph sheet.
 
 ## TABULATION:
-
-
-
+<img width="1280" height="590" alt="image" src="https://github.com/user-attachments/assets/91563d38-f995-4346-b3a2-f066440c01bf" />
 ## GRAPH:
+<img width="1280" height="1063" alt="image" src="https://github.com/user-attachments/assets/408774a1-35ca-4fe4-ad53-f4455fdbd219" />
 
+<img width="947" height="1280" alt="image" src="https://github.com/user-attachments/assets/d0359790-60db-40de-b25e-64cc1b8b6d62" />
 
 
 ## RESULT:

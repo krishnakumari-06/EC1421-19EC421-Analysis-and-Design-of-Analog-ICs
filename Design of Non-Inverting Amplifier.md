@@ -1,5 +1,6 @@
 # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
-# NON-INVERTING AMPLIFIER
+## NAME: KRISHNA KUMARI E
+## REG NO : 212224060127
 
 ## AIM:
 To design and construct a inverting, non- inverting and differential amplifiers.
@@ -15,8 +16,10 @@ The circuit closed-loop voltage gain is
 ACL = 1 + ( RF / R1)
 
 ## CIRCUIT DIAGRAM:
+<img width="1280" height="1027" alt="image" src="https://github.com/user-attachments/assets/9b47f72b-6189-44ca-9f44-948c10b955aa" />
 
 ## MODEL GRAPH:
+<img width="1280" height="935" alt="image" src="https://github.com/user-attachments/assets/58205b25-4058-425c-96d0-96d2f685fe09" />
 
 ## PROCEDURE:
 ### Non-Inverting Amplifier
@@ -32,10 +35,13 @@ ACL = 1 + ( RF / R1)
 <img width="364" height="160" alt="image" src="https://github.com/user-attachments/assets/d96a8dca-c14f-4be2-995d-c8b29d9ce178" />
 
 ## TABULATION:
+<img width="1280" height="783" alt="image" src="https://github.com/user-attachments/assets/3c1c1a1b-3896-4e73-971a-f256f31a7dd9" />
 
 ## CALCULATIONS:
+<img width="1240" height="670" alt="image" src="https://github.com/user-attachments/assets/8d66b2c1-4a57-4691-a762-275ee8565b8a" />
 
 ## GRAPH:
+<img width="929" height="1280" alt="image" src="https://github.com/user-attachments/assets/d14cfec4-5d2c-4764-a91f-ab68c9e01948" />
 
 ## RESULT:
 Thus the Non-Inverting Amplifier are designed and their performance was successfully tested using op-amp IC 741.

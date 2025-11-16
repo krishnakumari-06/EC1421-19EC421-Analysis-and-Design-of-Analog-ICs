@@ -2,6 +2,8 @@
 ## NAME: KRISHNA KUMARI E
 ## REG NO : 212224060127
 
+# NON-INVERTING AMPLIFIER
+
 ## AIM:
 To design and construct a inverting, non- inverting and differential amplifiers.
 

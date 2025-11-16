@@ -1,6 +1,7 @@
 # EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
 # Design of Inverting Amplifier
-
+## NAME: KRISHNA KUMARI E
+## REG NO: 212224060127
 ## AIM:
 
 To design and construct a inverting amplifier using op-amp(IC-741). 
@@ -30,11 +31,13 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
- paste your circuit diagram
+ <img width="1280" height="1020" alt="image" src="https://github.com/user-attachments/assets/5a5fd4aa-afb1-4b16-bf95-4ff39580dfd8" />
+
 
 ## MODEL GRAPH:
 
- Paste your model graph from observation
+ <img width="1280" height="1003" alt="image" src="https://github.com/user-attachments/assets/13bc90b1-15fa-4508-9804-c9ae31419c8c" />
+
 
 ## PROCEDURE:
  
@@ -49,14 +52,17 @@ Choose  R1 = 1kΩ, Rf=10kΩ
    
 ## TABULATION:
 
- paste your tabulation 
+ <img width="1280" height="858" alt="image" src="https://github.com/user-attachments/assets/8c61e3ca-f258-4c62-ae79-0d7ebabe77f9" />
+
 
 ## CALCULATIONS:
 
- 
+ <img width="1232" height="850" alt="image" src="https://github.com/user-attachments/assets/a4df9e00-9a73-4fa6-b96b-8980cf42fda1" />
+
 
 ## GRAPH:
 
+<img width="1013" height="1280" alt="image" src="https://github.com/user-attachments/assets/93ec396a-7a18-448d-82ad-85f28c9564d2" />
 
 
 ## RESULT:

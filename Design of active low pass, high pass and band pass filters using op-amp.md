@@ -102,19 +102,31 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
+
+<img width="347" height="353" alt="image" src="https://github.com/user-attachments/assets/32a55d41-159a-4a6a-8e4d-6694f8ef4cfe" />
+
 ## HIGH-PASS
+
+<img width="383" height="386" alt="image" src="https://github.com/user-attachments/assets/c7c3e82c-9a4d-4ecf-afd3-46c346bfa08c" />
+
 ## BAND-PASS
-## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+
+<img width="442" height="397" alt="image" src="https://github.com/user-attachments/assets/3079311c-668d-48c2-bbab-33872ad4f128" />
+
 ## GRAPH:
 ## LOW_PASS
+
+<img width="409" height="321" alt="image" src="https://github.com/user-attachments/assets/5aa2407c-03b9-4ece-b382-70f99e6d093d" />
+
+
 ## HIGH-PASS
+
+<img width="456" height="361" alt="image" src="https://github.com/user-attachments/assets/e8f4cd53-55df-42ae-8bab-278271a7e064" />
+
 ## BAND-PASS
+
+<img width="434" height="354" alt="image" src="https://github.com/user-attachments/assets/45db7ec4-479f-4384-99fc-79fdd2b64334" />
+
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
 tested using op-amp IC 741. 

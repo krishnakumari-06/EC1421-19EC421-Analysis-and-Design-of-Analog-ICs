@@ -1,4 +1,4 @@
-<img width="1352" height="875" alt="image" src="https://github.com/user-attachments/assets/0ae54277-6e73-43df-bac0-e029674cd22a" />## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## NAME: KRISHNA KUMARI E
 ## REG NO: 212224060127
 ## SIMULATION OF INVERTING, NON-INVERTING AND DIFFERENTIAL AMPLIFIER
@@ -31,10 +31,10 @@ LT-Spice
 ## OUTPUT GRAPH:
 ### INVERTING AMPLIFIER:
 <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/494dae46-363f-4b10-972c-8ef958f73bf3" />
-### NON-INVERTING AMPLIFIER:
+## NON-INVERTING AMPLIFIER:
 <img width="1916" height="869" alt="image" src="https://github.com/user-attachments/assets/ade0435c-10ce-46ea-895a-88f81d94a5ab" />
 
-### DIFFERENTIAL AMPLIFIER:
+## DIFFERENTIAL AMPLIFIER:
  <img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/a9d2475a-3fa0-44fc-8919-7e6272e7cbed" />
 
 ## RESULT:

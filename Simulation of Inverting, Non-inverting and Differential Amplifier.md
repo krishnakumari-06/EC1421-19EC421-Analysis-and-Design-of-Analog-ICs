@@ -21,6 +21,7 @@ LT-Spice
 ### NON-INVERTING AMPLIFIER:
 
 ### DIFFERENTIAL AMPLIFIER:
+<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/9a36de59-9803-4dd9-9bf0-8bf23b007d7d" />
 
 
 ## OUTPUT GRAPH:

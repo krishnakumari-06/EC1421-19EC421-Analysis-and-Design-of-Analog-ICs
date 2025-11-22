@@ -1,4 +1,6 @@
 ## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+## NAME: KRISHNA KUMARI E
+## REG NO: 212224060127
 ## SIMULATION OF SCHMITT TRIGGER
 
 ## AIM:
@@ -24,10 +26,11 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ### SCHMITT TRIGGER:
-
+<img width="1256" height="879" alt="image" src="https://github.com/user-attachments/assets/09e88656-be13-4f54-a85a-31ebf3f6db62" />
 
 ## OUTPUT GRAPH:
 ### SCHMITT TRIGGER:
+<img width="1914" height="862" alt="image" src="https://github.com/user-attachments/assets/bc53c8af-1a06-452a-85c9-91ef458db7e6" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Schmitt trigger circuit is simulated.

@@ -38,23 +38,20 @@ band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
 ## LOW_PASS
-<img width="1280" height="1048" alt="image" src="https://github.com/user-attachments/assets/a286cf79-c3e7-40e7-92b2-f983047fb94e" />
+<img width="1280" height="786" alt="image" src="https://github.com/user-attachments/assets/640fdede-30b5-48d7-98ac-bcfd2df62086" />
 
 ## HIGH-PASS
-<img width="1280" height="828" alt="image" src="https://github.com/user-attachments/assets/83fc47da-c3c0-4302-b278-6a77bfd02b00" />
-
+<img width="1280" height="828" alt="image" src="https://github.com/user-attachments/assets/d821468a-dafc-43cc-b591-f0e2795280cc" />
 ## BAND-PASS
-<img width="1280" height="1017" alt="image" src="https://github.com/user-attachments/assets/ff0fabae-2440-42dd-b3c7-2f7b428fab48" />
+<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/86dd1ea3-ac94-4faf-84a1-47a8b9c3ca95" />
 
 ## MODEL GRAPH:
 ## LOW_PASS
-<img width="1280" height="786" alt="image" src="https://github.com/user-attachments/assets/5f2af4b6-62d7-4294-8563-1a8ca22cc8b4" />
-
+ <img width="1108" height="702" alt="image" src="https://github.com/user-attachments/assets/53cb634b-ab8b-4db4-b001-71db425163e7" />
 ## HIGH-PASS
-<img width="1280" height="1203" alt="image" src="https://github.com/user-attachments/assets/b8d12acc-8fe1-4d7a-9083-b8028a6b9c06" />
-
+<img width="1280" height="898" alt="image" src="https://github.com/user-attachments/assets/8facfda8-9d68-4974-a65a-238a88ebb040" />
 ## BAND-PASS
-<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/950c7531-4664-4435-a8f8-fe9388ff1cb4" />
+ <img width="1280" height="967" alt="image" src="https://github.com/user-attachments/assets/125ff06d-e5d7-47b1-b331-bdceac218000" />
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
@@ -97,23 +94,22 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
-<img width="1280" height="967" alt="image" src="https://github.com/user-attachments/assets/71d69de1-67d4-4381-87be-e3d2b39469ca" />
+ <img width="1280" height="1203" alt="image" src="https://github.com/user-attachments/assets/c2b6cfd4-2346-4610-b4e0-c3481794642f" />
 
 ## HIGH-PASS
-<img width="1108" height="702" alt="image" src="https://github.com/user-attachments/assets/b896a125-d22e-49cb-9120-f3cb2fc44188" />
+ <img width="1077" height="1280" alt="image" src="https://github.com/user-attachments/assets/2f9ee3c0-de63-41e4-80c9-226fa56d6612" />
 
 ## BAND-PASS
- <img width="1077" height="1280" alt="image" src="https://github.com/user-attachments/assets/5101a8b5-ee58-4ffb-9abd-8ac99dd7e263" />
+ <img width="1280" height="1048" alt="image" src="https://github.com/user-attachments/assets/32b6cbd7-1289-4017-b5f5-cb4e51d02117" />
 
 ## GRAPH:
 ## LOW_PASS
-![WhatsApp Image 2025-11-25 at 9 17 37 AM](https://github.com/user-attachments/assets/9866ac76-bc0f-4673-b930-d7e6d39bc44d)
+ <img width="1280" height="1056" alt="image" src="https://github.com/user-attachments/assets/83e63eaf-de96-4c6d-998e-4369c15084a2" />
 
 ## HIGH-PASS
-<img width="1280" height="898" alt="image" src="https://github.com/user-attachments/assets/648432ec-6213-43d0-bbd4-690036b034b4" />
-
+ <img width="1280" height="1017" alt="image" src="https://github.com/user-attachments/assets/024e3557-dee3-493e-b2cb-2f9f087e38ac" />
 ## BAND-PASS
-<img width="1280" height="1056" alt="image" src="https://github.com/user-attachments/assets/43ee132c-b949-4eda-aa2f-82a4cbf54eee" />
+ <img width="1280" height="931" alt="image" src="https://github.com/user-attachments/assets/60662689-f575-4fb3-9d85-f00ae8561b85" />
 
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
